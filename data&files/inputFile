@@ -1,0 +1,15 @@
+##############
+PHOTON_NUMBER  1000000
+SOURCE      4
+0.023   0
+0.180   0
+0.500   0
+0.800   3
+MEDIUM          3                   16           7.8
+                28                  0.72
+                26                  0.18
+                24                  0.10
+TALLY   3       BACKSCATTERED       regular_fine
+                TRANSMITTED         regular_fine
+				DOSERATE			H(10)_Dose.dat
+##############

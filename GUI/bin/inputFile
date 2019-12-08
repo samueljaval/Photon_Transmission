@@ -1,0 +1,12 @@
+###################
+PHOTON_NUMBER   10000000
+SOURCE   2
+0.1  1
+0.8  1
+MEDIUM  2  10  7
+56  0.5
+58  0.5
+TALLY  3   BACKSCATTERED  .\Data\EnergyGrids\regular_fine
+TRANSMITTED  .\Data\EnergyGrids\regular_fine
+DOSERATE  .\Data\Flux2DoseConversion\Effective_Dose_AP.dat
+###################

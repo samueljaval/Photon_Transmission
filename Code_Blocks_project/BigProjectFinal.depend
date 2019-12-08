@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1563959868 source:c:\_samuel\bigprojectfinal\aleatoire.cpp
+	"Aleatoire.hpp"
+
+1563958879 c:\_samuel\bigprojectfinal\aleatoire.hpp
+	<iostream>
+	<cmath>
+	<fstream>
+
+1562250397 source:c:\_samuel\bigprojectfinal\collision.cpp
+	"collision.hpp"
+
+1562937825 c:\_samuel\bigprojectfinal\collision.hpp
+	"medium.hpp"
+	"Aleatoire.hpp"
+	"transport.hpp"
+	<math.h>
+
+1562335532 c:\_samuel\bigprojectfinal\medium.hpp
+	<vector>
+	<iostream>
+	<fstream>
+	<math.h>
+	<sstream>
+	<algorithm>
+	"constants.hpp"
+
+1564048994 c:\_samuel\bigprojectfinal\constants.hpp
+	<sstream>
+	<fstream>
+	<string>
+
+1562929976 c:\_samuel\bigprojectfinal\transport.hpp
+	"photon.hpp"
+	"collision.hpp"
+	"dataModel.hpp"
+	"constants.hpp"
+	<math.h>
+
+1562578414 c:\_samuel\bigprojectfinal\photon.hpp
+	<iostream>
+	<fstream>
+
+1564046147 c:\_samuel\bigprojectfinal\datamodel.hpp
+	<iostream>
+	"source.hpp"
+	"tally.hpp"
+	"medium.hpp"
+	<string>
+	<fstream>
+	<sstream>
+
+1562925785 c:\_samuel\bigprojectfinal\source.hpp
+	"Aleatoire.hpp"
+	"photon.hpp"
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+
+1564046147 c:\_samuel\bigprojectfinal\tally.hpp
+	"constants.hpp"
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<math.h>
+	"photon.hpp"
+
+1564045927 source:c:\_samuel\bigprojectfinal\datamodel.cpp
+	"dataModel.hpp"
+
+1564046021 source:c:\_samuel\bigprojectfinal\maestro.cpp
+	<iostream>
+	<string>
+	"dataModel.hpp"
+	"transport.hpp"
+	"Aleatoire.hpp"
+	<fstream>
+
+1562931129 source:c:\_samuel\bigprojectfinal\medium.cpp
+	"medium.hpp"
+
+1562578875 source:c:\_samuel\bigprojectfinal\photon.cpp
+	"photon.hpp"
+	"constants.hpp"
+
+1562925785 source:c:\_samuel\bigprojectfinal\source.cpp
+	"source.hpp"
+
+1563958711 source:c:\_samuel\bigprojectfinal\tally.cpp
+	"tally.hpp"
+
+1562937853 source:c:\_samuel\bigprojectfinal\transport.cpp
+	"transport.hpp"
+
